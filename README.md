@@ -2,7 +2,8 @@
 
 ## Description
 
-Un projet "fil rouge" devant respecter un certain cahier des charges défini par mon professeur de conception & développement d'applications.
+Un projet "fil rouge" devant respecter un certain cahier des charges défini par mon professeur de conception & développement d'applications. 
+Le site web est disponible à l'usage à l'adresse suivante : https://skibidilolbuilds.netlify.app/
 
 ## Sommaire
 
