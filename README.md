@@ -18,7 +18,7 @@ Aucune installation ni prérequis ne sont nécessaires afin de faire fonctionner
 
 ## Utilisation
 
-Ce site est destiné à répertorier toutes les versions "skibidi" de chaque champion League of Legends. Cinq sont disponibles actuellement à des fins de Proof of Concept (PoC) de réponse au cahier des charges:
+Ce site est destiné à répertorier toutes les versions "skibidi" de chaque champion League of Legends. Cinq sont disponibles actuellement à des fins de Proof of Concept (PoC) en réponse au cahier des charges:
 - Xayah
 - Warwick
 - Sett
